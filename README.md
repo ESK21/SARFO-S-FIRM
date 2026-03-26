@@ -19,3 +19,5 @@ Welcome. I design practical electronic systems focused on power and control appl
 
 ## Status
 Currently expanding portfolio with more hardware projects.
+
+Project files include schematic PDFs, PCB renders, and 3D views for review.
