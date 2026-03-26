@@ -17,4 +17,4 @@ This project is a USB-C-based 5V power supply designed using EasyEDA.
 ## Files
 - Schematic
 - PCB Layout
-- Design PDF
+- 3D Design
