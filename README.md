@@ -15,7 +15,6 @@ Welcome. I design practical electronic systems focused on power and control appl
 - Includes protection and safety considerations
 
 ## Tools
-- KiCad
 - EasyEDA
 
 ## Status
