@@ -16,7 +16,7 @@ Welcome. I design practical electronic systems focused on power and control appl
 
 ## Tools
 - EasyEDA
-
+- KiCAD
 ## Status
 Currently expanding portfolio with more hardware projects.
 
